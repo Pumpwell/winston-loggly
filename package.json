@@ -12,10 +12,10 @@
     "loggly": "1.0.x"
   },
   "peerDependencies": {
-    "winston": "~0.7.2"
+    "winston": "git://github.com/Pumpwell/winston.git"
   },
   "devDependencies": {
-    "winston": "0.7.x",
+    "winston": "git://github.com/Pumpwell/winston.git",
     "vows": "0.7.x"
   },
   "main": "./lib/winston-loggly",
